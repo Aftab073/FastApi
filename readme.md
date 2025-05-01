@@ -18,8 +18,8 @@
     <section id="how-to-use-this-repo">
         <h2>How to Use This Repo</h2>
         <p>If you're learning FastAPI too, clone this repo and follow along:</p>
-        <pre><code>git clone https://github.com/your-username/fastapi-learning.git
-cd fastapi-learning</code></pre>
+        <pre><code>git clone https://github.com/Aftab073/FastApi.git
+cd Fastapi</code></pre>
         <p>Each folder is organized by topic or mini-project. You’ll find:</p>
         <ul>
             <li>Comments in code</li>
@@ -30,7 +30,7 @@ cd fastapi-learning</code></pre>
     <section id="posts-threads">
         <h2>Posts & Threads</h2>
         <p>Follow along on Twitter/X where I share simplified explainers and code snippets from this repo.</p>
-        <p>https://x.com/compose/post</p>
+        <p>https://x.com/Hungermind0</p>
     </section>
     <section id="roadmap">
         <h2>My FastAPI Learning Roadmap</h2>
