@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FastAPI Learning Journey</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>FastAPI Learning Journey</h1>
+<h1>FastAPI Learning Journey</h1>
         <p>Welcome to my FastAPI learning repo! I'm diving deep into FastAPI — a modern, high-performance Python web framework — to level up my backend skills.</p>
     </header>
     <section id="why-this-repo">
@@ -50,7 +40,6 @@ cd Fastapi</code></pre>
     <footer>
         <p>If you’re learning FastAPI too, feel free to fork this, ask questions, or just lurk. I’m building in public — mistakes and all.</p>
     </footer>
-</body>
-</html>
+
 
 
